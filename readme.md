@@ -1,4 +1,4 @@
-# Tópicos para um Curso Completo de Inglês Americano (Básico ao Avançado)
+# Learning English | Inglês Americano (Básico ao Avançado)
 
 ## Nível Básico – Fundamentos e Comunicação Simples
 - **Gramática Básica:** Alfabeto e fonética básica do inglês; pronomes pessoais; verbo **to be** no presente (afirmativo, negativo, interrogativo); artigos definidos e indefinidos (a/an, the); substantivos no singular e plural (incluindo plurais irregulares); estrutura básica de frases (ordem Sujeito-Verbo-Objeto); perguntas simples (uso de **do/does**); advérbios de frequência (always, never, etc.); *There is/are* para existência; **have got**/have (posse); preposições básicas de lugar e tempo (in, on, at); adjetivos básicos e seus antônimos (big/small, good/bad) e uso de **very/too**; imperativos (comandos e instruções simples); modal **can** (habilidade e permissão); respostas curtas (**Yes, I do/No, I don’t**).  
