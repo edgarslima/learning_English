@@ -13,7 +13,7 @@
 
 - **Vocabulário & Temas Iniciais:** Cumprimentos e apresentações (hello, how are you, etc.); informações pessoais (nome, idade, nacionalidade, profissão); números (cardinais e ordinais) e dizer as horas; dias da semana, meses e datas; família e relacionamentos básicos; cores e formas (integradas em descrições, sem foco infantil); partes do corpo; itens de casa e cômodos; objetos comuns do dia a dia (roupas, alimentos básicos, lugares da cidade); clima e estações do ano; sentimentos básicos (happy, tired, etc.); **rotina diária** (vocabulário de atividades cotidianas como trabalhar, comer, dormir).  
 
-    - [Nível Básico – Fundamentos e Comunicação Simples 🔗](./basico/nivel-basico-fundamentos-comunicacao-simples.md)
+    - [Vocabulário & Temas Iniciais 🔗](./basico/temas_iniciais.md)
 
 - **Leitura e Escuta – Iniciante:** Leitura de frases curtas e simples, sinais e placas comuns; compreensão de diálogos breves e lentos sobre cumprimentos, apresentações e rotina diária. Por exemplo, ler um pequeno diálogo apresentando duas pessoas ou um cartão postal simples. Ouvir saudações, números de telefone, horários e instruções simples com clareza.  
     - [Nível Básico – Fundamentos e Comunicação Simples 🔗](./basico/nivel-basico-fundamentos-comunicacao-simples.md)
